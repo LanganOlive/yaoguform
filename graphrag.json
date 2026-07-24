@@ -4,42 +4,54 @@
       "id": 0,
       "size": 14,
       "representative": "通富微电",
-      "cohesion": 0.15
+      "cohesion": 0.14
     },
     {
       "id": 1,
-      "size": 14,
-      "representative": "顺控发展",
-      "cohesion": 0.14
+      "size": 13,
+      "representative": "兆易创新",
+      "cohesion": 0.15
     },
     {
       "id": 2,
       "size": 13,
-      "representative": "兆易创新",
-      "cohesion": 0.17
+      "representative": "捷荣技术",
+      "cohesion": 0.18
     },
     {
       "id": 3,
-      "size": 12,
-      "representative": "捷荣技术",
-      "cohesion": 0.17
+      "size": 7,
+      "representative": "顺控发展",
+      "cohesion": 0.29
     },
     {
       "id": 4,
-      "size": 4,
-      "representative": "华为 Mate 60 Pro 回归",
-      "cohesion": 0.5
+      "size": 3,
+      "representative": "碳中和",
+      "cohesion": 0.67
     },
     {
       "id": 5,
-      "size": 1,
-      "representative": "大模型训练芯片白皮书",
-      "cohesion": 1.0
+      "size": 3,
+      "representative": "长源电力",
+      "cohesion": 0.67
     },
     {
       "id": 6,
-      "size": 1,
-      "representative": "散户接力",
+      "size": 2,
+      "representative": "AMD MI300 量产",
+      "cohesion": 1.0
+    },
+    {
+      "id": 7,
+      "size": 2,
+      "representative": "长电科技",
+      "cohesion": 1.0
+    },
+    {
+      "id": 8,
+      "size": 2,
+      "representative": "国资改革",
       "cohesion": 1.0
     }
   ],
@@ -47,7 +59,12 @@
     {
       "id": "stock_002156",
       "label": "通富微电",
-      "degree": 19
+      "degree": 20
+    },
+    {
+      "id": "stock_002855",
+      "label": "捷荣技术",
+      "degree": 20
     },
     {
       "id": "stock_603986",
@@ -55,14 +72,9 @@
       "degree": 19
     },
     {
-      "id": "stock_002855",
-      "label": "捷荣技术",
-      "degree": 19
-    },
-    {
       "id": "stock_001336",
       "label": "顺控发展",
-      "degree": 8
+      "degree": 9
     },
     {
       "id": "concept_huawei_mate60",
