@@ -8,62 +8,92 @@
     },
     {
       "id": 1,
-      "size": 28,
+      "size": 27,
       "representative": "道恩股份",
       "cohesion": 0.08
     },
     {
       "id": 2,
+      "size": 26,
+      "representative": "中通客车",
+      "cohesion": 0.09
+    },
+    {
+      "id": 3,
       "size": 24,
+      "representative": "君正集团",
+      "cohesion": 0.1
+    },
+    {
+      "id": 4,
+      "size": 23,
       "representative": "双成药业",
       "cohesion": 0.11
     },
     {
-      "id": 3,
-      "size": 22,
-      "representative": "中通客车",
-      "cohesion": 0.11
-    },
-    {
-      "id": 4,
+      "id": 5,
       "size": 18,
       "representative": "剑桥科技",
       "cohesion": 0.12
     },
     {
-      "id": 5,
+      "id": 6,
       "size": 15,
       "representative": "顺控发展",
       "cohesion": 0.13
     },
     {
-      "id": 6,
+      "id": 7,
       "size": 15,
       "representative": "三六零",
       "cohesion": 0.19
     },
     {
-      "id": 7,
+      "id": 8,
       "size": 9,
       "representative": "浪潮信息",
       "cohesion": 0.22
     },
     {
-      "id": 8,
+      "id": 9,
       "size": 8,
       "representative": "元宇宙",
       "cohesion": 0.25
     },
     {
-      "id": 9,
-      "size": 4,
-      "representative": "明德生物",
-      "cohesion": 0.5
-    },
-    {
       "id": 10,
       "size": 2,
       "representative": "防疫物资",
+      "cohesion": 1.0
+    },
+    {
+      "id": 11,
+      "size": 1,
+      "representative": "参股金融 / 蚂蚁金服概念",
+      "cohesion": 1.0
+    },
+    {
+      "id": 12,
+      "size": 1,
+      "representative": "上交所科创板战略配售机制（2020-07）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 13,
+      "size": 1,
+      "representative": "内蒙古乌海",
+      "cohesion": 1.0
+    },
+    {
+      "id": 14,
+      "size": 1,
+      "representative": "区间涨幅 +290%（约 3 元 → 11.60 元，2020-07 至 2020-09）",
+      "cohesion": 1.0
+    },
+    {
+      "id": 15,
+      "size": 1,
+      "representative": "融资余额 7 月初 4 亿 → 8 月初 18 亿（4.5 倍）",
       "cohesion": 1.0
     }
   ],
@@ -77,6 +107,11 @@
       "id": "stock_002838",
       "label": "道恩股份",
       "degree": 25
+    },
+    {
+      "id": "stock_601216",
+      "label": "君正集团",
+      "degree": 22
     },
     {
       "id": "stock_002156",
@@ -112,11 +147,6 @@
       "id": "stock_300052",
       "label": "中青宝",
       "degree": 12
-    },
-    {
-      "id": "stock_001336",
-      "label": "顺控发展",
-      "degree": 9
     }
   ]
 }
