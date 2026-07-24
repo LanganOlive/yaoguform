@@ -2,21 +2,21 @@
   "clusters": [
     {
       "id": 0,
-      "size": 51,
-      "representative": "深城交",
-      "cohesion": 0.05
+      "size": 43,
+      "representative": "通富微电",
+      "cohesion": 0.07
     },
     {
       "id": 1,
-      "size": 44,
-      "representative": "通富微电",
+      "size": 41,
+      "representative": "胜宏科技",
       "cohesion": 0.06
     },
     {
       "id": 2,
       "size": 40,
-      "representative": "胜宏科技",
-      "cohesion": 0.06
+      "representative": "深城交",
+      "cohesion": 0.07
     },
     {
       "id": 3,
@@ -62,164 +62,200 @@
     },
     {
       "id": 10,
+      "size": 12,
+      "representative": "人民网",
+      "cohesion": 0.17
+    },
+    {
+      "id": 11,
       "size": 9,
       "representative": "浪潮信息",
       "cohesion": 0.22
     },
     {
-      "id": 11,
+      "id": 12,
       "size": 8,
       "representative": "元宇宙",
       "cohesion": 0.25
     },
     {
-      "id": 12,
+      "id": 13,
+      "size": 5,
+      "representative": "钠离子电池",
+      "cohesion": 0.4
+    },
+    {
+      "id": 14,
       "size": 5,
       "representative": "宁德时代",
       "cohesion": 0.4
     },
     {
-      "id": 13,
+      "id": 15,
       "size": 5,
       "representative": "万丰奥威",
       "cohesion": 0.4
     },
     {
-      "id": 14,
+      "id": 16,
+      "size": 4,
+      "representative": "低空经济",
+      "cohesion": 0.5
+    },
+    {
+      "id": 17,
       "size": 4,
       "representative": "明德生物",
       "cohesion": 0.5
     },
     {
-      "id": 15,
+      "id": 18,
+      "size": 3,
+      "representative": "国家数据局",
+      "cohesion": 0.67
+    },
+    {
+      "id": 19,
       "size": 2,
       "representative": "防疫物资",
       "cohesion": 1.0
     },
     {
-      "id": 16,
+      "id": 20,
       "size": 2,
       "representative": "国家能源局《新型储能发展实施方案》(2022-09)",
       "cohesion": 1.0
     },
     {
-      "id": 17,
-      "size": 2,
-      "representative": "2024-04 亿航智能 EH216-S 取得全球首张 eVTOL TC 证",
-      "cohesion": 1.0
-    },
-    {
-      "id": 18,
+      "id": 21,
       "size": 2,
       "representative": "民航局",
       "cohesion": 1.0
     },
     {
-      "id": 19,
-      "size": 1,
-      "representative": "参股金融 / 蚂蚁金服概念",
-      "cohesion": 1.0
-    },
-    {
-      "id": 20,
-      "size": 1,
-      "representative": "上交所科创板战略配售机制（2020-07）",
-      "cohesion": 1.0
-    },
-    {
-      "id": 21,
-      "size": 1,
-      "representative": "内蒙古乌海",
-      "cohesion": 1.0
-    },
-    {
       "id": 22,
-      "size": 1,
-      "representative": "区间涨幅 +290%（约 3 元 → 11.60 元，2020-07 至 2020-09）",
+      "size": 2,
+      "representative": "2024-04 亿航智能 EH216-S 取得全球首张 eVTOL TC 证",
       "cohesion": 1.0
     },
     {
       "id": 23,
-      "size": 1,
-      "representative": "融资余额 7 月初 4 亿 → 8 月初 18 亿（4.5 倍）",
+      "size": 2,
+      "representative": "数据资产入表",
       "cohesion": 1.0
     },
     {
       "id": 24,
       "size": 1,
-      "representative": "中航电测披露重组草案",
+      "representative": "参股金融 / 蚂蚁金服概念",
       "cohesion": 1.0
     },
     {
       "id": 25,
       "size": 1,
-      "representative": "华峰铝业",
+      "representative": "上交所科创板战略配售机制（2020-07）",
       "cohesion": 1.0
     },
     {
       "id": 26,
       "size": 1,
-      "representative": "谐波减速器",
+      "representative": "内蒙古乌海",
       "cohesion": 1.0
     },
     {
       "id": 27,
       "size": 1,
-      "representative": "3D视觉传感器",
+      "representative": "区间涨幅 +290%（约 3 元 → 11.60 元，2020-07 至 2020-09）",
       "cohesion": 1.0
     },
     {
       "id": 28,
       "size": 1,
-      "representative": "机器人芯片SoC",
+      "representative": "融资余额 7 月初 4 亿 → 8 月初 18 亿（4.5 倍）",
       "cohesion": 1.0
     },
     {
       "id": 29,
       "size": 1,
-      "representative": "OpenAI投资Figure AI",
+      "representative": "中航电测披露重组草案",
       "cohesion": 1.0
     },
     {
       "id": 30,
       "size": 1,
-      "representative": "英伟达Project GR00T发布",
+      "representative": "华峰铝业",
       "cohesion": 1.0
     },
     {
       "id": 31,
       "size": 1,
-      "representative": "山河智能",
+      "representative": "谐波减速器",
       "cohesion": 1.0
     },
     {
       "id": 32,
       "size": 1,
-      "representative": "安达维尔",
+      "representative": "3D视觉传感器",
       "cohesion": 1.0
     },
     {
       "id": 33,
       "size": 1,
-      "representative": "通用航空",
+      "representative": "机器人芯片SoC",
       "cohesion": 1.0
     },
     {
       "id": 34,
       "size": 1,
-      "representative": "中央经济工作会议",
+      "representative": "OpenAI投资Figure AI",
       "cohesion": 1.0
     },
     {
       "id": 35,
       "size": 1,
-      "representative": "无人机/通用航空制造",
+      "representative": "英伟达Project GR00T发布",
       "cohesion": 1.0
     },
     {
       "id": 36,
       "size": 1,
+      "representative": "山河智能",
+      "cohesion": 1.0
+    },
+    {
+      "id": 37,
+      "size": 1,
+      "representative": "安达维尔",
+      "cohesion": 1.0
+    },
+    {
+      "id": 38,
+      "size": 1,
+      "representative": "通用航空",
+      "cohesion": 1.0
+    },
+    {
+      "id": 39,
+      "size": 1,
+      "representative": "中央经济工作会议",
+      "cohesion": 1.0
+    },
+    {
+      "id": 40,
+      "size": 1,
+      "representative": "无人机/通用航空制造",
+      "cohesion": 1.0
+    },
+    {
+      "id": 41,
+      "size": 1,
       "representative": "eVTOL整机",
+      "cohesion": 1.0
+    },
+    {
+      "id": 42,
+      "size": 1,
+      "representative": "数据资产入表政策落地",
       "cohesion": 1.0
     }
   ],
