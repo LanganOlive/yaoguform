@@ -2,33 +2,33 @@
   "clusters": [
     {
       "id": 0,
+      "size": 29,
+      "representative": "捷荣技术",
+      "cohesion": 0.09
+    },
+    {
+      "id": 1,
+      "size": 18,
+      "representative": "剑桥科技",
+      "cohesion": 0.12
+    },
+    {
+      "id": 2,
       "size": 15,
       "representative": "通富微电",
       "cohesion": 0.14
     },
     {
-      "id": 1,
+      "id": 3,
       "size": 15,
       "representative": "顺控发展",
       "cohesion": 0.13
     },
     {
-      "id": 2,
-      "size": 13,
-      "representative": "兆易创新",
-      "cohesion": 0.17
-    },
-    {
-      "id": 3,
+      "id": 4,
       "size": 13,
       "representative": "双成药业",
       "cohesion": 0.15
-    },
-    {
-      "id": 4,
-      "size": 12,
-      "representative": "捷荣技术",
-      "cohesion": 0.17
     },
     {
       "id": 5,
@@ -38,30 +38,24 @@
     },
     {
       "id": 6,
-      "size": 12,
+      "size": 10,
       "representative": "三六零",
-      "cohesion": 0.18
+      "cohesion": 0.2
     },
     {
       "id": 7,
-      "size": 7,
-      "representative": "浪潮信息",
+      "size": 8,
+      "representative": "ChatGPT",
       "cohesion": 0.29
     },
     {
       "id": 8,
       "size": 6,
-      "representative": "ChatGPT",
-      "cohesion": 0.4
+      "representative": "浪潮信息",
+      "cohesion": 0.33
     },
     {
       "id": 9,
-      "size": 4,
-      "representative": "华为 Mate 60 Pro 回归",
-      "cohesion": 0.5
-    },
-    {
-      "id": 10,
       "size": 2,
       "representative": "深交所监管问询风险",
       "cohesion": 1.0
@@ -104,6 +98,11 @@
       "degree": 9
     },
     {
+      "id": "stock_603083",
+      "label": "剑桥科技",
+      "degree": 9
+    },
+    {
       "id": "concept_huawei_mate60",
       "label": "华为 Mate 60 Pro 回归",
       "degree": 5
@@ -111,11 +110,6 @@
     {
       "id": "stock_600584",
       "label": "长电科技",
-      "degree": 4
-    },
-    {
-      "id": "concept_sanhu_jieli",
-      "label": "散户接力",
       "degree": 4
     }
   ]
