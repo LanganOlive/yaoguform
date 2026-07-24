@@ -2,21 +2,21 @@
   "clusters": [
     {
       "id": 0,
+      "size": 51,
+      "representative": "深城交",
+      "cohesion": 0.05
+    },
+    {
+      "id": 1,
       "size": 44,
       "representative": "通富微电",
       "cohesion": 0.06
     },
     {
-      "id": 1,
-      "size": 42,
-      "representative": "深城交",
-      "cohesion": 0.07
-    },
-    {
       "id": 2,
-      "size": 27,
-      "representative": "剑桥科技",
-      "cohesion": 0.08
+      "size": 40,
+      "representative": "胜宏科技",
+      "cohesion": 0.06
     },
     {
       "id": 3,
@@ -45,14 +45,14 @@
     {
       "id": 7,
       "size": 20,
-      "representative": "三六零",
-      "cohesion": 0.13
+      "representative": "中航电测",
+      "cohesion": 0.12
     },
     {
       "id": 8,
-      "size": 20,
-      "representative": "中航电测",
-      "cohesion": 0.12
+      "size": 15,
+      "representative": "三六零",
+      "cohesion": 0.19
     },
     {
       "id": 9,
@@ -62,32 +62,32 @@
     },
     {
       "id": 10,
+      "size": 9,
+      "representative": "浪潮信息",
+      "cohesion": 0.22
+    },
+    {
+      "id": 11,
       "size": 8,
       "representative": "元宇宙",
       "cohesion": 0.25
     },
     {
-      "id": 11,
+      "id": 12,
       "size": 5,
       "representative": "宁德时代",
       "cohesion": 0.4
     },
     {
-      "id": 12,
+      "id": 13,
       "size": 5,
       "representative": "万丰奥威",
       "cohesion": 0.4
     },
     {
-      "id": 13,
-      "size": 4,
-      "representative": "明德生物",
-      "cohesion": 0.5
-    },
-    {
       "id": 14,
       "size": 4,
-      "representative": "低空经济",
+      "representative": "明德生物",
       "cohesion": 0.5
     },
     {
@@ -105,13 +105,13 @@
     {
       "id": 17,
       "size": 2,
-      "representative": "民航局",
+      "representative": "2024-04 亿航智能 EH216-S 取得全球首张 eVTOL TC 证",
       "cohesion": 1.0
     },
     {
       "id": 18,
       "size": 2,
-      "representative": "2024-04 亿航智能 EH216-S 取得全球首张 eVTOL TC 证",
+      "representative": "民航局",
       "cohesion": 1.0
     },
     {
@@ -240,6 +240,11 @@
       "degree": 24
     },
     {
+      "id": "stock_300476",
+      "label": "胜宏科技",
+      "degree": 24
+    },
+    {
       "id": "stock_601216",
       "label": "君正集团",
       "degree": 22
@@ -268,11 +273,6 @@
       "id": "stock_601360",
       "label": "三六零",
       "degree": 18
-    },
-    {
-      "id": "stock_301091",
-      "label": "深城交",
-      "degree": 17
     }
   ]
 }
