@@ -2,21 +2,21 @@
   "clusters": [
     {
       "id": 0,
-      "size": 31,
-      "representative": "双成药业",
-      "cohesion": 0.09
-    },
-    {
-      "id": 1,
       "size": 30,
       "representative": "道恩股份",
       "cohesion": 0.07
     },
     {
+      "id": 1,
+      "size": 24,
+      "representative": "双成药业",
+      "cohesion": 0.11
+    },
+    {
       "id": 2,
-      "size": 28,
-      "representative": "捷荣技术",
-      "cohesion": 0.1
+      "size": 23,
+      "representative": "三六零",
+      "cohesion": 0.13
     },
     {
       "id": 3,
@@ -26,9 +26,9 @@
     },
     {
       "id": 4,
-      "size": 16,
+      "size": 15,
       "representative": "通富微电",
-      "cohesion": 0.13
+      "cohesion": 0.14
     },
     {
       "id": 5,
@@ -38,18 +38,36 @@
     },
     {
       "id": 6,
-      "size": 12,
-      "representative": "GLP-1类减肥药",
-      "cohesion": 0.21
+      "size": 13,
+      "representative": "兆易创新",
+      "cohesion": 0.17
     },
     {
       "id": 7,
-      "size": 6,
-      "representative": "浪潮信息",
-      "cohesion": 0.33
+      "size": 12,
+      "representative": "捷荣技术",
+      "cohesion": 0.17
     },
     {
       "id": 8,
+      "size": 9,
+      "representative": "浪潮信息",
+      "cohesion": 0.22
+    },
+    {
+      "id": 9,
+      "size": 8,
+      "representative": "元宇宙",
+      "cohesion": 0.25
+    },
+    {
+      "id": 10,
+      "size": 4,
+      "representative": "华为 Mate 60 Pro 回归",
+      "cohesion": 0.5
+    },
+    {
+      "id": 11,
       "size": 2,
       "representative": "防疫物资",
       "cohesion": 1.0
@@ -92,6 +110,11 @@
       "degree": 12
     },
     {
+      "id": "stock_300052",
+      "label": "中青宝",
+      "degree": 12
+    },
+    {
       "id": "stock_001336",
       "label": "顺控发展",
       "degree": 9
@@ -100,11 +123,6 @@
       "id": "stock_603083",
       "label": "剑桥科技",
       "degree": 9
-    },
-    {
-      "id": "concept_huawei_mate60",
-      "label": "华为 Mate 60 Pro 回归",
-      "degree": 5
     }
   ]
 }
