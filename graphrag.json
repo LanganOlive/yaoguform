@@ -2,33 +2,33 @@
   "clusters": [
     {
       "id": 0,
-      "size": 30,
-      "representative": "道恩股份",
-      "cohesion": 0.07
+      "size": 44,
+      "representative": "通富微电",
+      "cohesion": 0.06
     },
     {
       "id": 1,
+      "size": 28,
+      "representative": "道恩股份",
+      "cohesion": 0.08
+    },
+    {
+      "id": 2,
       "size": 24,
       "representative": "双成药业",
       "cohesion": 0.11
     },
     {
-      "id": 2,
-      "size": 23,
-      "representative": "三六零",
-      "cohesion": 0.13
-    },
-    {
       "id": 3,
-      "size": 18,
-      "representative": "剑桥科技",
-      "cohesion": 0.12
+      "size": 22,
+      "representative": "中通客车",
+      "cohesion": 0.11
     },
     {
       "id": 4,
-      "size": 15,
-      "representative": "通富微电",
-      "cohesion": 0.14
+      "size": 18,
+      "representative": "剑桥科技",
+      "cohesion": 0.12
     },
     {
       "id": 5,
@@ -38,36 +38,30 @@
     },
     {
       "id": 6,
-      "size": 13,
-      "representative": "兆易创新",
-      "cohesion": 0.17
+      "size": 15,
+      "representative": "三六零",
+      "cohesion": 0.19
     },
     {
       "id": 7,
-      "size": 12,
-      "representative": "捷荣技术",
-      "cohesion": 0.17
-    },
-    {
-      "id": 8,
       "size": 9,
       "representative": "浪潮信息",
       "cohesion": 0.22
     },
     {
-      "id": 9,
+      "id": 8,
       "size": 8,
       "representative": "元宇宙",
       "cohesion": 0.25
     },
     {
-      "id": 10,
+      "id": 9,
       "size": 4,
-      "representative": "华为 Mate 60 Pro 回归",
+      "representative": "明德生物",
       "cohesion": 0.5
     },
     {
-      "id": 11,
+      "id": 10,
       "size": 2,
       "representative": "防疫物资",
       "cohesion": 1.0
@@ -105,6 +99,11 @@
       "degree": 18
     },
     {
+      "id": "stock_000957",
+      "label": "中通客车",
+      "degree": 15
+    },
+    {
       "id": "concept_glp1_yaopin",
       "label": "GLP-1类减肥药",
       "degree": 12
@@ -117,11 +116,6 @@
     {
       "id": "stock_001336",
       "label": "顺控发展",
-      "degree": 9
-    },
-    {
-      "id": "stock_603083",
-      "label": "剑桥科技",
       "degree": 9
     }
   ]
