@@ -8,9 +8,9 @@
     },
     {
       "id": 1,
-      "size": 32,
+      "size": 37,
       "representative": "传艺科技",
-      "cohesion": 0.09
+      "cohesion": 0.07
     },
     {
       "id": 2,
@@ -21,44 +21,44 @@
     {
       "id": 3,
       "size": 24,
-      "representative": "君正集团",
-      "cohesion": 0.1
-    },
-    {
-      "id": 4,
-      "size": 23,
       "representative": "双成药业",
       "cohesion": 0.11
     },
     {
+      "id": 4,
+      "size": 24,
+      "representative": "三六零",
+      "cohesion": 0.11
+    },
+    {
       "id": 5,
-      "size": 19,
+      "size": 22,
+      "representative": "君正集团",
+      "cohesion": 0.11
+    },
+    {
+      "id": 6,
+      "size": 22,
+      "representative": "鸣志电器",
+      "cohesion": 0.1
+    },
+    {
+      "id": 7,
+      "size": 20,
       "representative": "中航电测",
       "cohesion": 0.12
     },
     {
-      "id": 6,
+      "id": 8,
       "size": 18,
       "representative": "剑桥科技",
       "cohesion": 0.12
     },
     {
-      "id": 7,
-      "size": 15,
-      "representative": "三六零",
-      "cohesion": 0.19
-    },
-    {
-      "id": 8,
+      "id": 9,
       "size": 14,
       "representative": "顺控发展",
       "cohesion": 0.14
-    },
-    {
-      "id": 9,
-      "size": 9,
-      "representative": "浪潮信息",
-      "cohesion": 0.22
     },
     {
       "id": 10,
@@ -69,73 +69,97 @@
     {
       "id": 11,
       "size": 5,
-      "representative": "钠离子电池",
-      "cohesion": 0.4
-    },
-    {
-      "id": 12,
-      "size": 5,
       "representative": "宁德时代",
       "cohesion": 0.4
     },
     {
-      "id": 13,
+      "id": 12,
       "size": 4,
       "representative": "明德生物",
       "cohesion": 0.5
     },
     {
-      "id": 14,
+      "id": 13,
       "size": 2,
       "representative": "防疫物资",
       "cohesion": 1.0
     },
     {
-      "id": 15,
+      "id": 14,
       "size": 2,
       "representative": "国家能源局《新型储能发展实施方案》(2022-09)",
       "cohesion": 1.0
     },
     {
-      "id": 16,
+      "id": 15,
       "size": 1,
       "representative": "参股金融 / 蚂蚁金服概念",
       "cohesion": 1.0
     },
     {
-      "id": 17,
+      "id": 16,
       "size": 1,
       "representative": "上交所科创板战略配售机制（2020-07）",
       "cohesion": 1.0
     },
     {
-      "id": 18,
+      "id": 17,
       "size": 1,
       "representative": "内蒙古乌海",
       "cohesion": 1.0
     },
     {
-      "id": 19,
+      "id": 18,
       "size": 1,
       "representative": "区间涨幅 +290%（约 3 元 → 11.60 元，2020-07 至 2020-09）",
       "cohesion": 1.0
     },
     {
-      "id": 20,
+      "id": 19,
       "size": 1,
       "representative": "融资余额 7 月初 4 亿 → 8 月初 18 亿（4.5 倍）",
       "cohesion": 1.0
     },
     {
-      "id": 21,
+      "id": 20,
       "size": 1,
       "representative": "中航电测披露重组草案",
       "cohesion": 1.0
     },
     {
-      "id": 22,
+      "id": 21,
       "size": 1,
       "representative": "华峰铝业",
+      "cohesion": 1.0
+    },
+    {
+      "id": 22,
+      "size": 1,
+      "representative": "谐波减速器",
+      "cohesion": 1.0
+    },
+    {
+      "id": 23,
+      "size": 1,
+      "representative": "3D视觉传感器",
+      "cohesion": 1.0
+    },
+    {
+      "id": 24,
+      "size": 1,
+      "representative": "机器人芯片SoC",
+      "cohesion": 1.0
+    },
+    {
+      "id": 25,
+      "size": 1,
+      "representative": "OpenAI投资Figure AI",
+      "cohesion": 1.0
+    },
+    {
+      "id": 26,
+      "size": 1,
+      "representative": "英伟达Project GR00T发布",
       "cohesion": 1.0
     }
   ],
@@ -149,6 +173,11 @@
       "id": "stock_002838",
       "label": "道恩股份",
       "degree": 25
+    },
+    {
+      "id": "stock_603728",
+      "label": "鸣志电器",
+      "degree": 24
     },
     {
       "id": "stock_601216",
@@ -184,11 +213,6 @@
       "id": "stock_002866",
       "label": "传艺科技",
       "degree": 16
-    },
-    {
-      "id": "stock_000957",
-      "label": "中通客车",
-      "degree": 15
     }
   ]
 }
