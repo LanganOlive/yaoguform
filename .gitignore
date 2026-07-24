@@ -9,8 +9,11 @@ Thumbs.db
 *.swo
 
 # 中间产物 / 备份
+.graphify-out/
+graphify-out/
 .graphify_*_chunk.json
 .graphify_analysis.json
+graph.json.bak
 graph.json.bak.*
 manifest.json.bak.*
 

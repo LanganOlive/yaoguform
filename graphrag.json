@@ -1,1 +1,80 @@
-{}
+{
+  "clusters": [
+    {
+      "id": 0,
+      "size": 14,
+      "representative": "通富微电",
+      "cohesion": 0.14
+    },
+    {
+      "id": 1,
+      "size": 2,
+      "representative": "华天科技",
+      "cohesion": 1.0
+    },
+    {
+      "id": 2,
+      "size": 2,
+      "representative": "AMD MI300 量产",
+      "cohesion": 1.0
+    },
+    {
+      "id": 3,
+      "size": 1,
+      "representative": "大模型训练芯片白皮书",
+      "cohesion": 1.0
+    }
+  ],
+  "top_nodes_by_degree": [
+    {
+      "id": "stock_002156",
+      "label": "通富微电",
+      "degree": 17
+    },
+    {
+      "id": "stock_002185",
+      "label": "华天科技",
+      "degree": 2
+    },
+    {
+      "id": "stock_600584",
+      "label": "长电科技",
+      "degree": 2
+    },
+    {
+      "id": "concept_amd_mi300",
+      "label": "AMD MI300 量产",
+      "degree": 2
+    },
+    {
+      "id": "institution_AMD",
+      "label": "AMD",
+      "degree": 2
+    },
+    {
+      "id": "stock_688256",
+      "label": "寒武纪",
+      "degree": 1
+    },
+    {
+      "id": "stock_603893",
+      "label": "瑞芯微",
+      "degree": 1
+    },
+    {
+      "id": "concept_ai_compute",
+      "label": "AI 算力",
+      "degree": 1
+    },
+    {
+      "id": "concept_guochan_daiti",
+      "label": "国产替代",
+      "degree": 1
+    },
+    {
+      "id": "concept_hbm_cowos",
+      "label": "HBM / CoWoS",
+      "degree": 1
+    }
+  ]
+}
