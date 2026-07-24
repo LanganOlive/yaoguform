@@ -2,24 +2,36 @@
   "clusters": [
     {
       "id": 0,
-      "size": 14,
+      "size": 13,
       "representative": "通富微电",
-      "cohesion": 0.14
+      "cohesion": 0.15
     },
     {
       "id": 1,
+      "size": 12,
+      "representative": "兆易创新",
+      "cohesion": 0.17
+    },
+    {
+      "id": 2,
+      "size": 3,
+      "representative": "华为 Mate 60 Pro 回归",
+      "cohesion": 0.67
+    },
+    {
+      "id": 3,
       "size": 2,
       "representative": "华天科技",
       "cohesion": 1.0
     },
     {
-      "id": 2,
+      "id": 4,
       "size": 2,
       "representative": "AMD MI300 量产",
       "cohesion": 1.0
     },
     {
-      "id": 3,
+      "id": 5,
       "size": 1,
       "representative": "大模型训练芯片白皮书",
       "cohesion": 1.0
@@ -29,16 +41,31 @@
     {
       "id": "stock_002156",
       "label": "通富微电",
-      "degree": 17
+      "degree": 18
+    },
+    {
+      "id": "stock_603986",
+      "label": "兆易创新",
+      "degree": 18
     },
     {
       "id": "stock_002185",
       "label": "华天科技",
-      "degree": 2
+      "degree": 3
     },
     {
       "id": "stock_600584",
       "label": "长电科技",
+      "degree": 3
+    },
+    {
+      "id": "concept_huawei_mate60",
+      "label": "华为 Mate 60 Pro 回归",
+      "degree": 3
+    },
+    {
+      "id": "stock_688256",
+      "label": "寒武纪",
       "degree": 2
     },
     {
@@ -47,34 +74,19 @@
       "degree": 2
     },
     {
-      "id": "institution_AMD",
-      "label": "AMD",
+      "id": "concept_guochan_daiti",
+      "label": "国产替代",
       "degree": 2
     },
     {
-      "id": "stock_688256",
-      "label": "寒武纪",
-      "degree": 1
+      "id": "policy_daqizuansanqi",
+      "label": "国家大基金三期成立",
+      "degree": 2
     },
     {
-      "id": "stock_603893",
-      "label": "瑞芯微",
-      "degree": 1
-    },
-    {
-      "id": "concept_ai_compute",
-      "label": "AI 算力",
-      "degree": 1
-    },
-    {
-      "id": "concept_guochan_daiti",
-      "label": "国产替代",
-      "degree": 1
-    },
-    {
-      "id": "concept_hbm_cowos",
-      "label": "HBM / CoWoS",
-      "degree": 1
+      "id": "institution_AMD",
+      "label": "AMD",
+      "degree": 2
     }
   ]
 }
