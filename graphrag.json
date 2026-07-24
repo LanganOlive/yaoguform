@@ -14,45 +14,45 @@
     },
     {
       "id": 2,
-      "size": 26,
+      "size": 25,
       "representative": "中通客车",
       "cohesion": 0.09
     },
     {
       "id": 3,
       "size": 24,
+      "representative": "三六零",
+      "cohesion": 0.11
+    },
+    {
+      "id": 4,
+      "size": 24,
       "representative": "君正集团",
       "cohesion": 0.1
     },
     {
-      "id": 4,
+      "id": 5,
       "size": 23,
       "representative": "双成药业",
       "cohesion": 0.11
     },
     {
-      "id": 5,
+      "id": 6,
+      "size": 20,
+      "representative": "中航电测",
+      "cohesion": 0.12
+    },
+    {
+      "id": 7,
       "size": 18,
       "representative": "剑桥科技",
       "cohesion": 0.12
     },
     {
-      "id": 6,
-      "size": 15,
-      "representative": "顺控发展",
-      "cohesion": 0.13
-    },
-    {
-      "id": 7,
-      "size": 15,
-      "representative": "三六零",
-      "cohesion": 0.19
-    },
-    {
       "id": 8,
-      "size": 9,
-      "representative": "浪潮信息",
-      "cohesion": 0.22
+      "size": 15,
+      "representative": "散户接力",
+      "cohesion": 0.13
     },
     {
       "id": 9,
@@ -95,6 +95,12 @@
       "size": 1,
       "representative": "融资余额 7 月初 4 亿 → 8 月初 18 亿（4.5 倍）",
       "cohesion": 1.0
+    },
+    {
+      "id": 16,
+      "size": 1,
+      "representative": "中航电测披露重组草案",
+      "cohesion": 1.0
     }
   ],
   "top_nodes_by_degree": [
@@ -124,6 +130,11 @@
       "degree": 20
     },
     {
+      "id": "stock_600114",
+      "label": "中航电测",
+      "degree": 20
+    },
+    {
       "id": "stock_603986",
       "label": "兆易创新",
       "degree": 19
@@ -141,11 +152,6 @@
     {
       "id": "concept_glp1_yaopin",
       "label": "GLP-1类减肥药",
-      "degree": 12
-    },
-    {
-      "id": "stock_300052",
-      "label": "中青宝",
       "degree": 12
     }
   ]
