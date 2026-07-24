@@ -2,60 +2,77 @@
   "clusters": [
     {
       "id": 0,
-      "size": 14,
+      "size": 15,
       "representative": "通富微电",
       "cohesion": 0.14
     },
     {
       "id": 1,
-      "size": 13,
-      "representative": "兆易创新",
-      "cohesion": 0.15
+      "size": 15,
+      "representative": "顺控发展",
+      "cohesion": 0.13
     },
     {
       "id": 2,
       "size": 13,
-      "representative": "捷荣技术",
-      "cohesion": 0.18
+      "representative": "兆易创新",
+      "cohesion": 0.17
     },
     {
       "id": 3,
-      "size": 7,
-      "representative": "顺控发展",
-      "cohesion": 0.29
+      "size": 13,
+      "representative": "双成药业",
+      "cohesion": 0.15
     },
     {
       "id": 4,
-      "size": 3,
-      "representative": "碳中和",
-      "cohesion": 0.67
+      "size": 12,
+      "representative": "捷荣技术",
+      "cohesion": 0.17
     },
     {
       "id": 5,
-      "size": 3,
-      "representative": "长源电力",
-      "cohesion": 0.67
+      "size": 12,
+      "representative": "GLP-1类减肥药",
+      "cohesion": 0.21
     },
     {
       "id": 6,
-      "size": 2,
-      "representative": "AMD MI300 量产",
-      "cohesion": 1.0
+      "size": 12,
+      "representative": "三六零",
+      "cohesion": 0.18
     },
     {
       "id": 7,
-      "size": 2,
-      "representative": "长电科技",
-      "cohesion": 1.0
+      "size": 7,
+      "representative": "浪潮信息",
+      "cohesion": 0.29
     },
     {
       "id": 8,
+      "size": 6,
+      "representative": "ChatGPT",
+      "cohesion": 0.4
+    },
+    {
+      "id": 9,
+      "size": 4,
+      "representative": "华为 Mate 60 Pro 回归",
+      "cohesion": 0.5
+    },
+    {
+      "id": 10,
       "size": 2,
-      "representative": "国资改革",
+      "representative": "深交所监管问询风险",
       "cohesion": 1.0
     }
   ],
   "top_nodes_by_degree": [
+    {
+      "id": "stock_002693",
+      "label": "双成药业",
+      "degree": 25
+    },
     {
       "id": "stock_002156",
       "label": "通富微电",
@@ -70,6 +87,16 @@
       "id": "stock_603986",
       "label": "兆易创新",
       "degree": 19
+    },
+    {
+      "id": "stock_601360",
+      "label": "三六零",
+      "degree": 18
+    },
+    {
+      "id": "concept_glp1_yaopin",
+      "label": "GLP-1类减肥药",
+      "degree": 12
     },
     {
       "id": "stock_001336",
@@ -87,24 +114,9 @@
       "degree": 4
     },
     {
-      "id": "stock_002185",
-      "label": "华天科技",
-      "degree": 3
-    },
-    {
-      "id": "concept_guochan_daiti",
-      "label": "国产替代",
-      "degree": 3
-    },
-    {
-      "id": "policy_daqizuansanqi",
-      "label": "国家大基金三期成立",
-      "degree": 3
-    },
-    {
-      "id": "concept_tanzhonghe",
-      "label": "碳中和",
-      "degree": 3
+      "id": "concept_sanhu_jieli",
+      "label": "散户接力",
+      "degree": 4
     }
   ]
 }
